@@ -8,7 +8,7 @@
   <p> I love badminton, love singing, love life! 
   <br> Please check out my <a href="https://www.youtube.com/channel/UCpHNNykAjvIkK7frlnXvnVQ">youtube channel</a>, where I record my life!  😝 </p>
   <div class="col span_2_right">
-	  <img src="_layouts/IMG_4278.JPG" />
+	  <img src="IMG_4278.JPG" />
 	</div>
   
 
@@ -36,8 +36,23 @@
 
   <li> <h2> Projects </h2>
        <ul> 
-            <li> Recent Job Market Analysis based on Indeed.com</li>
-            <li> Analysis of Annual Energy Consumption of UC Davis Campus</li>
+            <li> Statistics 
+	    	<ol>
+		<li> Recent Job Market Analysis across Differnet Majors </li>
+		<li> Analysis of Annual Energy Consumption of UC Davis Campus </li>
+		</ol>
+	    </li>
+	    
+            <li> Materials Science 
+	    	<ol>
+		<li> Structure and Energetics of SiOC and SiOC-modifiedcarbon-bonded Carbon Fiber Composites </li>
+		<li> Thermodynamic Stability of Low-k SiOCH Dielectric Films </li>
+		<li> Thermodynamic Stability of Metal-substituted LiMn<sub>2-x</sub>M<sub>x</sub>O<sub>4</sub> (M = Cr, Fe, Co and Ni) </li>
+		<li> The Synthesis and Electric Applications of Graphene Nanoscrolls </li>
+		<li> Graphene-based Stretchable, Transparent Conductor </li>
+		
+		</ol>
+	    </li>
             </ul>
   </li> 
   
