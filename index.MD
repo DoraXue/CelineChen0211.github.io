@@ -1,16 +1,11 @@
-
-<h1>
-  <center>Welcome to Jiewei's GitHub Pages</center>
-</h1>
-
 <ul>
   <li> <h2> Who am I? </h2>
-  <li> <h2> Projects </h2>
-       <ul> 
-            <li> Recent Job Market Analysis based on Indeed.com</li>
-            <li> Analysis of Annual Energy Consumption of UC Davis Campus</li>
-            </ul>
+  <br> Hi, I am Jiewei!
+  <br> Welcome to my website.
   
+  
+  
+
   <li> <h2> Education </h2>  
        <ul> 
             <li> <b> Ph.D.</b> 
@@ -24,6 +19,12 @@
        
    </ul>
 
+  <li> <h2> Projects </h2>
+       <ul> 
+            <li> Recent Job Market Analysis based on Indeed.com</li>
+            <li> Analysis of Annual Energy Consumption of UC Davis Campus</li>
+            </ul>
+  
 
 You can use the [editor on GitHub](https://github.com/CelineChen0211/CelineChen0211.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
