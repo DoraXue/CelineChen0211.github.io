@@ -17,16 +17,6 @@
 
   </head>
   <body>
-      <div id="header">
-        <nav>
-          <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-          {% if site.show_downloads %}
-            <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-            <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-            <li class="title">DOWNLOADS</li>
-          {% endif %}
-        </nav>
-      </div><!-- end header -->
 
     <div class="wrapper">
 
@@ -44,7 +34,7 @@
 <h2> <center>A quick look at this project</center> </h2>
 
   <div class="youtube">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/C56D4OG3JHk" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" align = "middle" src="https://www.youtube.com/embed/C56D4OG3JHk" frameborder="0" allowfullscreen></iframe>
   </div>
 
 <ul>
