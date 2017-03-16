@@ -40,8 +40,13 @@
          </div>
         
 
-<!main content>
+
 <h2> <a href = "" >A quick look at this project</a> </h2>
+
+  <div class="youtube">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/C56D4OG3JHk" frameborder="0" allowfullscreen></iframe>
+  </div>
+
 <ul>
 <li> <h2> Motivation </h2> </li>
 <li> <h2> Data Description </h2> </li>
