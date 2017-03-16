@@ -36,9 +36,10 @@
           <hr class = "style15">
           <p> Jiewei Chen, Da Xue </p>
           <hr>
-          <span class="credits center">Project maintained by <a href="mailto:cjwchen@ucdavis.edu?Subject=Hello%20again" target="_top">Jiewei</a>
-            and <a href="mailto:xdxue@ucdavis.edu?Subject=Hello%20again" target="_top">Da</a>
+          <center>Project maintained by <a href="mailto:cjwchen@ucdavis.edu?Subject=Hello%20again" target="_top">Jiewei</a>
+            and <a href="mailto:xdxue@ucdavis.edu?Subject=Hello%20again" target="_top">Da</a></center>
 
+</body>
 
 <a href = "" >A quick look at this project</a>
 <ul>
@@ -48,6 +49,7 @@
 <li> <h2> Results </h2> </li>
 </ul>
 
+</html>
 
 
 
