@@ -3,10 +3,10 @@
   <p>
   Hi, I am Jiewei! Welcome to my website.</p>
   <p> 
-  I am from Wuhan, China, a place along the Yangtze river, a place full of great food and a place where Yellow Crane Tower locates. In 2010, I left my hometown and entered Zhejiang University in Hang Zhou. I spent my most beautiful four years in this "Paradise City". Not to exaggerate, Hangzhou can be called my second hometown. After the graduation from ZJU in 2014, I headed University of California, Davis to get my Ph.D degree. That is where I am now. =] 
+  I am from Wuhan, China, a place along the Yangtze river, a place full of great food and a place where Yellow Crane Tower locates. In 2010, I left my hometown and entered Zhejiang University in Hang Zhou. I spent my most beautiful four years in this "Paradise City". Not to exaggerate, Hangzhou can be called my second hometown. I missed it! After the graduation from ZJU in 2014, I headed University of California, Davis to get my Ph.D degree. That is where I am now. =] 
   </p>
   <p> I love badminton, love singing, love life! 
-  <br> Check out my <a href="https://www.youtube.com/channel/UCpHNNykAjvIkK7frlnXvnVQ">youtube channel</a>, where I record my life!  😝 </p>
+  <br> Please check out my <a href="https://www.youtube.com/channel/UCpHNNykAjvIkK7frlnXvnVQ">youtube channel</a>, where I record my life!  😝 </p>
   
 
   <li> <h2> Education </h2>  
@@ -21,7 +21,7 @@
             <li> <b> Undergraduate Study </b> 
                   <ul>
                   <li> <a href="http://ckc.zju.edu.cn/english/">Chu Kochen Honor College</a>, <a href="http://www.zju.edu.cn/english/">Zhejiang University</a>, Hangzhou, China </li>
-                  <li>B.S <a href="http://polymer.zju.edu.cn/english/">Polymer Materials and Engineering</a> </li>
+                  <li>B.S in <a href="http://polymer.zju.edu.cn/english/">Polymer Materials and Engineering</a> </li>
                   </ul>
             </li>
        </ul>
