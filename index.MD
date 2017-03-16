@@ -1,7 +1,8 @@
 <ul>
   <li> <h2> Who am I? </h2>
   Hi, I am Jiewei! Welcome to my website.
-  <p> I am from Wuhan, China, a place along the Yangtze river, a place full of great food and a place where Yellow Crane Tower locates. In 2010, I left my hometown and entered Zhejiang University in Hang Zhou. I spent my most beautiful four years in this "Paradise City". Not to exaggerate Hangzhou can be called my second hometown. After the graduation from ZJU in 2014, I headed University of California, Davis to get my Ph.D degree. That is where I am now. =] 
+  <p> 
+  I am from Wuhan, China, a place along the Yangtze river, a place full of great food and a place where Yellow Crane Tower locates. In 2010, I left my hometown and entered Zhejiang University in Hang Zhou. I spent my most beautiful four years in this "Paradise City". Not to exaggerate Hangzhou can be called my second hometown. After the graduation from ZJU in 2014, I headed University of California, Davis to get my Ph.D degree. That is where I am now. =] 
   </p>
   <p> I love badminton, love singing, love life! 
   <br> Check out my <a href="https://www.youtube.com/channel/UCpHNNykAjvIkK7frlnXvnVQ">youtube channel</a>, where I record my life!  😝 </p>
@@ -11,7 +12,7 @@
        <ul> 
             <li> <b> Graduate Study</b> 
                   <ul> 
-                  <li> Ph.D &#160 &#160 &#160<a href="https://mse.engineering.ucdavis.edu/"> Materials Science and Engineering </a>
+                  <li> Ph.D      <a href="https://mse.engineering.ucdavis.edu/"> Materials Science and Engineering </a>
                    &nbsp &nbsp &nbsp<a href="https://www.ucdavis.edu/">UC Davis </a>, Davis, CA
                   <li> Master &nbsp&nbsp<a href="http://www.stat.ucdavis.edu/"> Statistics </a>
                    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a href="https://www.ucdavis.edu/"> UC Davis </a>, Davis, CA
