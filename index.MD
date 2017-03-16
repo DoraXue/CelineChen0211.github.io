@@ -13,19 +13,23 @@
        <ul> 
             <li> <b> Graduate Study</b> 
                   <ul> 
-                  <li> Ph.D <br> <a href="https://mse.engineering.ucdavis.edu/">Materials Science and Engineering </a>
-                   <a href="https://www.ucdavis.edu/">   UC Davis </a>, Davis, CA
-                  <li> Master<a href="http://www.stat.ucdavis.edu/">    Statistics </a>
-                    <a href="https://www.ucdavis.edu/">            UC Davis </a>, Davis, CA
+                  <li> Ph.D, UC Davis, Davis, CA
+                  <br> <a href="https://mse.engineering.ucdavis.edu/">Materials Science and Engineering </a>
+                  </li>  
+                  <li> Master, UC Davis, Davis, CA
+                  <br> <a href="http://www.stat.ucdavis.edu/">    Statistics </a>
+                  </li>
                   </ul>
+            </li> 
             <li> <b> Undergraduate Study </b> 
                   <ul>
                   <li> <a href="http://ckc.zju.edu.cn/english/">Chu Kochen Honor College</a>, <a href="http://www.zju.edu.cn/english/">Zhejiang University</a>, Hangzhou, China
                   <li>B.S <a href="http://polymer.zju.edu.cn/english/">Polymer Materials and Engineering</a>   
                   </ul>
+            </li>
        </ul>
-       
- </ul>
+   </li> 
+
 
 
 
@@ -35,7 +39,9 @@
             <li> Recent Job Market Analysis based on Indeed.com</li>
             <li> Analysis of Annual Energy Consumption of UC Davis Campus</li>
             </ul>
+  </li> 
   
+</ul>
 
 You can use the [editor on GitHub](https://github.com/CelineChen0211/CelineChen0211.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
