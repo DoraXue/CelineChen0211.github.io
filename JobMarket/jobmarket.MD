@@ -36,16 +36,11 @@
           <hr class = "style15">
           <p> Jiewei Chen, Da Xue </p>
           <hr>
-          <span class="credits left">Project maintained by <a href="mailto:cjwchen@ucdavis.edu?Subject=Hello%20again" target="_top">Jiewei</a>
+          <span class="credits center">Project maintained by <a href="mailto:cjwchen@ucdavis.edu?Subject=Hello%20again" target="_top">Jiewei</a>
             and <a href="mailto:xdxue@ucdavis.edu?Subject=Hello%20again" target="_top">Da</a>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
-        </div>
-
-        {{ content }}
-
-      </section>
 
 
+<a href = "" >A quick look at this project</a>
 <ul>
 <li> <h2> Motivation </h2> </li>
 <li> <h2> Data Description </h2> </li>
