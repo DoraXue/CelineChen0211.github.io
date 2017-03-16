@@ -2,14 +2,15 @@
   <li> <h2> Who am I? </h2>
   <p>
   Hi, I am Jiewei! Welcome to my website.</p>
+  <div class="col span_2_right">
+  	<img src="IMG_4278.JPG" width="100" height="80" align="right">
+  </div>
   <p> 
   I am from Wuhan, China, a place along the Yangtze river, a place full of great food and a place where Yellow Crane Tower locates. In 2010, I left my hometown and entered Zhejiang University in Hang Zhou. I spent my most beautiful four years in this "Paradise City". Not to exaggerate, Hangzhou can be called my second hometown. I missed it! After the graduation from ZJU in 2014, I headed University of California, Davis to get my Ph.D degree. That is where I am now. =] 
   </p>
   <p> I love badminton, love singing, love life! 
   <br> Please check out my <a href="https://www.youtube.com/channel/UCpHNNykAjvIkK7frlnXvnVQ">youtube channel</a>, where I record my life!  😝 </p>
-  <div class="col span_2_right">
-	  <img src="IMG_4278.JPG" width="42" height="42" align="left">
-	</div>
+
   
 
   <li> <h2> Education </h2>  
