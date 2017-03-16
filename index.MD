@@ -13,16 +13,19 @@
        <ul> 
             <li> <b> Graduate Study</b> 
                   <ul> 
-                  <li> Ph.D<a href="https://mse.engineering.ucdavis.edu/">      Materials Science and Engineering </a>
+                  <li> Ph.D <br> <a href="https://mse.engineering.ucdavis.edu/">Materials Science and Engineering </a>
                    <a href="https://www.ucdavis.edu/">   UC Davis </a>, Davis, CA
                   <li> Master<a href="http://www.stat.ucdavis.edu/">    Statistics </a>
                     <a href="https://www.ucdavis.edu/">            UC Davis </a>, Davis, CA
-                   </ul>
+                  </ul>
             <li> <b> Undergraduate Study </b> 
                   <ul>
                   <li> <a href="http://ckc.zju.edu.cn/english/">Chu Kochen Honor College</a>, <a href="http://www.zju.edu.cn/english/">Zhejiang University</a>, Hangzhou, China
-                  <li>B.S <a href="http://polymer.zju.edu.cn/english/">Polymer Materials and Engineering</a>                  
-   </ul>
+                  <li>B.S <a href="http://polymer.zju.edu.cn/english/">Polymer Materials and Engineering</a>   
+                  </ul>
+       </ul>
+       
+ </ul>
 
 
 
