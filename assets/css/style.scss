@@ -5,10 +5,8 @@
 
 
 hr.style15 {
-	border-top: 8px double #8c8b8b;
+	border-top: 4px double #8c8b8b;
 	text-align: center;
-	margin-left: 8em;
-    	margin-right: 8em;
 }
 hr.style15:after {
 	content: '\002665';
@@ -16,7 +14,7 @@ hr.style15:after {
 	position: relative;
 	top: -15px;
 	padding: 0 10px;
-	background: #383737;
+	background: #282828;
 	color: #8c8b8b;
 	font-size: 18px;
 	margin-left: 8em;
