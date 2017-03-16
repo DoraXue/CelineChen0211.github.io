@@ -36,14 +36,14 @@
 
   <li> <h2> Projects </h2>
        <ul> 
-            <li> Statistics 
+       	    <li> <h3> Statistics </h3>
 	    	<ol>
-		<li> Recent Job Market Analysis across Differnet Majors </li>
-		<li> Analysis of Annual Energy Consumption of UC Davis Campus </li>
+		    <li> Recent Job Market Analysis across Differnet Majors </li>
+		    <li> Analysis of Annual Energy Consumption of UC Davis Campus </li>
 		</ol>
 	    </li>
 	    
-            <li> Materials Science 
+            <li> <h3> Materials Science </h3>
 	    	<ol>
 		<li> Structure and Energetics of SiOC and SiOC-modifiedcarbon-bonded Carbon Fiber Composites </li>
 		<li> Thermodynamic Stability of Low-k SiOCH Dielectric Films </li>
