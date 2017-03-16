@@ -34,15 +34,14 @@
         <div id="title">
           <h1> Recent Job Market Analysis </h1>
           <hr class = "style15">
-          <p> Jiewei Chen, Da Xue </p>
+          <p> <a href="mailto:cjwchen@ucdavis.edu?Subject=Hello%20again" target="_top">Jiewei Chen</a> and
+          <a href="mailto:xdxue@ucdavis.edu?Subject=Hello%20again" target="_top">Da Xue</a> </p>
           <hr>
-          <span style="font-size:10px;text-align:center;"> Project maintained by <a href="mailto:cjwchen@ucdavis.edu?Subject=Hello%20again" target="_top">Jiewei</a>
-            and <a href="mailto:xdxue@ucdavis.edu?Subject=Hello%20again" target="_top">Da</a></span>
-            </div>
-        </section>
+         </div>
+        
 
-
-<a href = "" >A quick look at this project</a>
+<!main content>
+<h2> <a href = "" >A quick look at this project</a> </h2>
 <ul>
 <li> <h2> Motivation </h2> </li>
 <li> <h2> Data Description </h2> </li>
@@ -50,7 +49,7 @@
 <li> <h2> Results </h2> </li>
 </ul>
 
-
+</section>
 
 
 
