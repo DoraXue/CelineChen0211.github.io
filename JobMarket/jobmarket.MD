@@ -36,10 +36,11 @@
           <hr class = "style15">
           <p> Jiewei Chen, Da Xue </p>
           <hr>
-          <span style="font-size:10px;text-align: center;">blueProject maintained by <a href="mailto:cjwchen@ucdavis.edu?Subject=Hello%20again" target="_top">Jiewei</a>
+          <span style="font-size:10px;text-align:center;"> Project maintained by <a href="mailto:cjwchen@ucdavis.edu?Subject=Hello%20again" target="_top">Jiewei</a>
             and <a href="mailto:xdxue@ucdavis.edu?Subject=Hello%20again" target="_top">Da</a></span>
+            </div>
+        </section>
 
-</body>
 
 <a href = "" >A quick look at this project</a>
 <ul>
@@ -49,7 +50,9 @@
 <li> <h2> Results </h2> </li>
 </ul>
 
-</html>
+
+
+
 
 
 
