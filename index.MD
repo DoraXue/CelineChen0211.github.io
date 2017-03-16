@@ -39,7 +39,7 @@
        <ul> 
        	    <li> <h3> Statistics </h3>
 	    	<ol>
-		    <li> Recent Job Market Analysis across Differnet Majors </li>
+		    <li> <a href ="JobMarket/jobmarket.html" >Recent Job Market Analysis across Differnet Majors</a> </li>
 		    <li> Analysis of Annual Energy Consumption of UC Davis Campus </li>
 		</ol>
 	    </li>
