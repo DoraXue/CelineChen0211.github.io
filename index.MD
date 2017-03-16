@@ -8,7 +8,7 @@
   <p> I love badminton, love singing, love life! 
   <br> Please check out my <a href="https://www.youtube.com/channel/UCpHNNykAjvIkK7frlnXvnVQ">youtube channel</a>, where I record my life!  😝 </p>
   <div class="col span_2_right">
-	  <img src="_layouts/IMG_4278.JPG">
+	  <img src="_layouts/IMG_4278.JPG" />
 	</div>
   
 
