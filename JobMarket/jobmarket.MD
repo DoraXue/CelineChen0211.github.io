@@ -32,7 +32,7 @@
 
       <section>
         <div id="title">
-          <h1> Recent Job Market Analysis across Differnet Majors </h1>
+          <h1> Recent Job Market Analysis </h1>
           <hr class = "style15">
           <p> Jiewei Chen, Da Xue </p>
           <hr>
