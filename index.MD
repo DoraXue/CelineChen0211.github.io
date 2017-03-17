@@ -39,7 +39,7 @@
   <p> 
   I am from Wuhan, China, a place along the Yangtze river, a place full of great food and a place where Yellow Crane Tower locates. In 2010, I left my hometown and entered Zhejiang University in Hangzhou. I spent my most beautiful four years in this "Paradise City". Not to exaggerate, Hangzhou can be called my second hometown. I missed it! After the graduation from ZJU in 2014, I headed University of California, Davis to get my Ph.D degree. That is where I am now. =] 
   </p>
-  <p>Fall of 2016 is a turning point of my graduate study, when I selected two courses related to Statistics. This was not the first time I was exposed to Statistics, but is the first time I truly understand the beauty of Stat and knew what I truly want to do in the future. Towards this goal, I enriched myself by taking various statistics courses both on-campus and online. Now I can’t wait to put all my analytical knowledge into practical use, to explore data and turn them into insights.</p>
+  <p>Fall of 2016 was a turning point of my graduate study, when I selected two courses related to Statistics. This was not the first time I was exposed to Statistics, but is the first time I truly understand the beauty of Stat and knew what I truly want to do in the future. Towards this goal, I am now on the track of pursuing a Statistics Master Degree. I can’t wait to put all my analytical knowledge into practical use, to explore data and turn them into insights.</p>
   <p> I also love badminton, love singing, love life! 
   <br> Please check out my <a href="https://www.youtube.com/channel/UCpHNNykAjvIkK7frlnXvnVQ">youtube channel</a>, where I record my life!  😝 </p>
 
