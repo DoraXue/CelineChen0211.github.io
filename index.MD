@@ -90,13 +90,13 @@
   
     <li> <h2> Publications </h2>
        <ol> 
-       <li>Min Niu, Hongjie Wang, <u>Jiewei Chen</u>, Lei Su, Di Wu, and Alexandra Navrotsky, “Structure and Energetics of SiOC and SiOC Modified Carbon-bonded Carbon Fiber Composites”, Journal of the American Ceramic Society 2017, accepted </li>
+       <li>Min Niu, Hongjie Wang, <u>Jiewei Chen</u>, Lei Su, Di Wu, and Alexandra Navrotsky, “Structure and Energetics of SiOC and SiOC Modified Carbon-bonded Carbon Fiber Composites”, <i>Journal of the American Ceramic Society</i> <b>2017</b>, accepted </li>
        <br>
-       <li> <u>Jiewei Chen</u>, Sean W. King, Elayaraja Muthuswamy, Anastasia Koryttseva, Di Wu, and Alexandra Navrotsky, “Thermodynamic stability of low-k SiOCH dielectric films” Journal of the American Ceramic Society 99.8 (2016): 2752-2759.<a href = "http://onlinelibrary.wiley.com/store/10.1111/jace.14268/asset/jace14268.pdf?v=1&t=iriu91lb&s=daf1c6a139a0ef09011ca23438b741a658efc589"> [pdf] </a> </li>
+       <li> <u>Jiewei Chen</u>, Sean W. King, Elayaraja Muthuswamy, Anastasia Koryttseva, Di Wu, and Alexandra Navrotsky, “Thermodynamic stability of low-k SiOCH dielectric films” <i>Journal of the American Ceramic Society</i> 99.8 (<b>2016</b>): 2752-2759.<a href = "http://onlinelibrary.wiley.com/store/10.1111/jace.14268/asset/jace14268.pdf?v=1&t=iriu91lb&s=daf1c6a139a0ef09011ca23438b741a658efc589"> [pdf] </a> </li>
        <br>
-       <li> Chenying Lai, <u>Jiewei Chen</u>, James C. Knight, Arumugam Manthiram, Alexandra Navrotsky,  “Thermodynamic Stability of Transition Metal Substituted LiMn2-xMxO4 (M = Cr, Fe, Co and Ni) Spinels” ChemPhysChem 17.13 (2016): 1973-1978.<a href = "http://onlinelibrary.wiley.com/doi/10.1002/cphc.201600120/abstract"> [pdf] </a> </li>
+       <li> Chenying Lai, <u>Jiewei Chen</u>, James C. Knight, Arumugam Manthiram, Alexandra Navrotsky,  “Thermodynamic Stability of Transition Metal Substituted LiMn2-xMxO4 (M = Cr, Fe, Co and Ni) Spinels” <i>ChemPhysChem</i> 17.13 (<b>2016</b>): 1973-1978.<a href = "http://onlinelibrary.wiley.com/doi/10.1002/cphc.201600120/abstract"> [pdf] </a> </li>
        <br>
-	<li> Zhen Xu, Bingna Zheng, <u>Jiewei Chen</u>, Chao Gao, "Highly efficient synthesis of neat graphene nanoscrolls from graphene oxide by well-controlled lyophilization." Chemistry of Materials 26.23 (2014): 6811-6818.<a href = "http://pubs.acs.org/doi/abs/10.1021/cm503418h"> [pdf] </a> </li>
+	<li> Zhen Xu, Bingna Zheng, <u>Jiewei Chen</u>, Chao Gao, "Highly efficient synthesis of neat graphene nanoscrolls from graphene oxide by well-controlled lyophilization." Chemistry of Materials 26.23 (<b>2014</b>): 6811-6818.<a href = "http://pubs.acs.org/doi/abs/10.1021/cm503418h"> [pdf] </a> </li>
         </ol>
   </li> 
   
