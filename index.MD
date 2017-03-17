@@ -34,7 +34,7 @@
   <p>
   Hi, I am Jiewei! Welcome to my website.</p>
   <div>
-  	<img src="IMG_4278.JPG" width="200" height="200" align="right">
+  	<img class='img-circle' src="IMG_4278.JPG" width="200" height="200" align="right">
   </div>
   <p> 
   I am from Wuhan, China, a place along the Yangtze river, a place full of great food and a place where Yellow Crane Tower locates. In 2010, I left my hometown and entered Zhejiang University in Hang Zhou. I spent my most beautiful four years in this "Paradise City". Not to exaggerate, Hangzhou can be called my second hometown. I missed it! After the graduation from ZJU in 2014, I headed University of California, Davis to get my Ph.D degree. That is where I am now. =] 
