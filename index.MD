@@ -37,9 +37,10 @@
   	<img class='img-circle' src="IMG_4278.JPG" width="200" height="200" align="right">
   </div>
   <p> 
-  I am from Wuhan, China, a place along the Yangtze river, a place full of great food and a place where Yellow Crane Tower locates. In 2010, I left my hometown and entered Zhejiang University in Hang Zhou. I spent my most beautiful four years in this "Paradise City". Not to exaggerate, Hangzhou can be called my second hometown. I missed it! After the graduation from ZJU in 2014, I headed University of California, Davis to get my Ph.D degree. That is where I am now. =] 
+  I am from Wuhan, China, a place along the Yangtze river, a place full of great food and a place where Yellow Crane Tower locates. In 2010, I left my hometown and entered Zhejiang University in Hangzhou. I spent my most beautiful four years in this "Paradise City". Not to exaggerate, Hangzhou can be called my second hometown. I missed it! After the graduation from ZJU in 2014, I headed University of California, Davis to get my Ph.D degree. That is where I am now. =] 
   </p>
-  <p> I love badminton, love singing, love life! 
+  <p>Fall of 2016 is a turning point of my graduate study, when I selected two courses related to Statistics. This was not the first time I was exposed to Statistics, but is the first time I truly understand the beauty of Stat and knew what I truly want to do in the future. Towards this goal, I enriched myself by taking various statistics courses both on-campus and online. Now I can’t wait to put all my analytical knowledge into practical use, to explore data and turn them into insights.</p>
+  <p> I also love badminton, love singing, love life! 
   <br> Please check out my <a href="https://www.youtube.com/channel/UCpHNNykAjvIkK7frlnXvnVQ">youtube channel</a>, where I record my life!  😝 </p>
 
   
@@ -49,14 +50,14 @@
             <li> <b> Graduate Study</b> 
                   <ul> 
                   <li> University of Californiam Davis, CA </li>
-                  <li> Ph.D in <a href="https://mse.engineering.ucdavis.edu/">Materials Science and Engineering </a></li>  
-                  <li> Master in <a href="http://www.stat.ucdavis.edu/"> Statistics </a></li>
+                  <li> Ph.D in <a href="https://mse.engineering.ucdavis.edu/">Materials Science and Engineering </a></li> (GPA: 3.93/4.0)
+                  <li> Master in <a href="http://www.stat.ucdavis.edu/"> Statistics </a></li> (GPA: 4.0/4.0)
                   </ul>
             </li> 
             <li> <b> Undergraduate Study </b> 
                   <ul>
                   <li> <a href="http://ckc.zju.edu.cn/english/">Chu Kochen Honor College</a>, <a href="http://www.zju.edu.cn/english/">Zhejiang University</a>, Hangzhou, China </li>
-                  <li>B.S in <a href="http://polymer.zju.edu.cn/english/">Polymer Materials and Engineering</a> </li>
+                  <li>B.S in <a href="http://polymer.zju.edu.cn/english/">Polymer Materials and Engineering</a> </li> (GPA: 3.83/4.0)
                   </ul>
             </li>
        </ul>
