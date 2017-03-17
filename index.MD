@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -34,7 +33,7 @@
   <li> <h2> Who am I ? </h2>
   <p>
   Hi, I am Jiewei! Welcome to my website.</p>
-  <div class="col span_2_right">
+  <div>
   	<img src="IMG_4278.JPG" width="200" height="200" align="right">
   </div>
   <p> 
