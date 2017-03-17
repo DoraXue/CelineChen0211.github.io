@@ -44,7 +44,7 @@
 
 <center> This is us laughing when finishing the project... (not really) </center>
 <div >
-<center><img src="IMG_4278.JPG" width="320" height="180" align="middle"></center>
+<center><img src="IMG_4279.JPG" width="320" height="180" align="middle"></center>
 </div>
 </section>
 
