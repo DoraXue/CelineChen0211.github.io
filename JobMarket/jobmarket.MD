@@ -44,7 +44,7 @@
 
 <center> This is us laughing when finishing the project... (not really) </center>
 <div >
-<center><img src="laughing.JPG" width="410" height="273" align="middle"></center>
+<center><img class = "clip" src="laughing.JPG" width="410" height="273" align="middle"></center>
 </div>
 </section>
 
