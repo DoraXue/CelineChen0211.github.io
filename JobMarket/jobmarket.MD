@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -28,9 +27,7 @@
           <a href="mailto:xdxue@ucdavis.edu?Subject=Hello%20again" target="_top">Da Xue</a> </p>
           <hr>
          </div>
-        
-
-
+     
 <h2> <center>A quick look at this project</center> </h2>
 
   <div class="youtube">
@@ -44,6 +41,11 @@
 <li> <h2> Results </h2> </li>
 </ul>
 
+
+This is us laughing when finishing the project... (not really)
+<div >
+  	<img src="IMG_4278.JPG" width="320" height="180" align="center">
+</div>
 </section>
 
 
