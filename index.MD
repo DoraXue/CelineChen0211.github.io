@@ -25,7 +25,7 @@
           <hr class = "style15">
           <p> Ph.D, Data Enthusiast, Materials Scientist </p>
           <hr>
-          <span class="credits left">Project maintained by Jiewei </span>
+          <span class="credits left">Project maintained by <a href = "mailto:cjwchen@ucdavis.edu">Jiewei</a> </span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
         </div>
 	
