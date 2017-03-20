@@ -107,7 +107,7 @@
   
   
   <hr>
-  <p> <h3> Contact Me </h3> </p>
+  <center> <h3 class = 'mail'> Contact Me </h3> </center>
   <center> &#9993; Email: cjwchen at ucdavis.edu </center>
   
   
