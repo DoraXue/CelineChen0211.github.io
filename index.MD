@@ -102,3 +102,8 @@
         </ol>
   </li> 
   
+  <br>
+  <p> <h2> Contact Me </h2> </p>
+  &#9993; Email: cjwchen at ucdavis.edu
+  
+  
