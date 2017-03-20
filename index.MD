@@ -102,8 +102,8 @@
         </ol>
   </li> 
   
-  <br>
-  <p> <h2> Contact Me </h2> </p>
+  <hr>
+  <p> <font color = '#75a4ef' size = 5> Contact Me </font> </p>
   &#9993; Email: cjwchen at ucdavis.edu
   
   
