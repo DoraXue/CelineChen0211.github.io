@@ -4,7 +4,6 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title> Meet Jiewei Chen </title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <!--link rel="stylesheet" href="assets/css/style.scss">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="/assets/js/style.js"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
