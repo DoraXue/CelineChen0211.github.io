@@ -51,7 +51,7 @@
 <p>		To quickly get to the fun part of the results, the methodologies and techniques we used for this project are summarized in this table. You may scroll down to the very bottom to find the link to our jupyter notebook to find more details. </p>
 
 <div>
-	<img src="Figures/2-method.jpg" height="200" >
+	<img src="Figures/2-method.jpg" height="300" align="middle">
 </div>
 
 <h2> Interesting Findings </h2>
@@ -61,7 +61,11 @@
   	</div>
 	<p> Not surprisingly, there are two clusters on the map, one is at the silicon valley, and the other is around LA. </p>
 	<p> Another interesting observation is that the STAT companies are more closely centered at these two locations, whereas the CHE and MSE companies are more widely distributed.</p>
-	<p>	Check out these interactive maps to have a closer look at the job posts. Click the pins to find the job titles and company names! </p>
+	<p>	Check out these interactive maps to have a closer look at the job posts.  </p>
+	<ul>
+	<li> <a href = 'Figures/Statistics.html'>Statistics</a>
+	</ul>
+	<p> Click the pins to find the job titles and company names! </p>
 	<figure>
   	<img src="Figures/Statistics.html" height="300">
 	</figure>
@@ -72,25 +76,29 @@
   	<img src="Figures/Materials_Science.html" height="300">
 	</figure>
 	
-	+ Degree Requirement
+	<h3> Grads vs Undergrads, who are more wanted? </h3>
 	<div>
 		<img src="Figures/Degree requirement comparison.png" height="200" align="right">
 	</div>
+<p>The majority of the jobs only require a Bachelors degree. For internships, the percentage of graduate is slightly higher. It is interesting to find that there is really high demand for Materials Science graduate students for internships.</p>
 	<div>
 		<img src="Figures/3-degree pie.jpg" height="200" align="right">
-	</div>	
-	+ Skill set
+	</div>
+<p>The population data of the entire US in 2014 to 2015 academic year of the statistic major and engineering majors come from the National Center for Education Statistics. And the job demand data were obtained from Indeed website and only for California. Since the data are not on the same page in terms of time and locations, we only compared the percentage of different degrees. </p>
+<p>Assuming the CA data is representative for the entire nation, the percentage of undergrad is smaller in population than that in the job market. It seems to be easier for undergrads to find a job. However, people with higher education levels may prefer to continue their career in academia rather than industry.</p>
+
+	<h3>Skill set</h3>
 	<div>
 		<img src="Figures/4-venn.jpg" height="200" align="right">
 	</div>
 	<div>
 		<img src="Figures/skill set of STAT.png" height="200" align="right">
 	</div>	
-	+ Salary Level
+	<h3> Salary Level </h3>
 	<div>
 		<img src="Figures/salary_violinplot.png" height="200" align="right">
 	</div>
-	+ Skill set of different salary levels
+	<h3> Skill set of different salary levels</h3>
 	<div>
 		<img src="Figures/Skill Salary Bar Plot.png" height="200" align="right">
 	</div>
