@@ -63,9 +63,10 @@
 <div class = 'ex3'>
 </div>
 
-<h2> <span color = '#faca55'> INTERSTING FINDINGS </span> </h2>
+<h2> <font color = '#faca55'> INTERSTING FINDINGS </font> </h2>
 <p></p>
-	<h3>1. Where are the hiring companies ?</h3>
+<p></p>
+	<h3><font color = '#3da5da'>1. Where are the hiring companies ?</font></h3>
 	<div>
   	<img src="Figures/LocationofJobs.png" height="300" align="right">
   	</div>
@@ -73,10 +74,11 @@
 	<p> Another interesting observation is that the STAT companies are more closely centered at these two locations, whereas the CHE and MSE companies are more widely distributed.</p>
 	<p>	Check out these interactive maps to have a closer look at the job posts. Click the pins to find the job titles and company names! </p>
 	
-	<iframe width="216" height="180" src='Figures/Statistics.html' frameborder="1"></iframe><iframe width="216" height="180" src='Figures/Chemical_Engineering.html' frameborder="1"></iframe><iframe width="216" height="180" src='Figures/Materials_Science.html' frameborder="1"></iframe>
+	<iframe width="215" height="180" src='Figures/Statistics.html' frameborder="1"></iframe><iframe width="215" height="180" src='Figures/Chemical_Engineering.html' frameborder="1"></iframe><iframe width="215" height="180" src='Figures/Materials_Science.html' frameborder="1"></iframe>
 
 <p> </p>
-	<h3>2. Grads vs Undergrads, who are more wanted? </h3>
+<p></p>
+	<h3><font color = '#3da5da'> 2. Grads vs Undergrads, who are more wanted? </font></h3>
 	<div>
 		<img src="Figures/Degree requirement comparison.png" width="650" align="middle">
 	</div>
@@ -89,9 +91,9 @@
 	<p>The population data of the entire US in 2014 to 2015 academic year of the statistic major and engineering majors come from the National Center for Education Statistics. And the job demand data were obtained from Indeed website and only for California. Since the data are not on the same page in terms of time and locations, we only compared the percentage of different degrees. </p>
 	<p>Assuming the CA data is representative for the entire nation, the percentage of undergrad is smaller in population than that in the job market. It seems to be easier for undergrads to find a job. However, people with higher education levels may prefer to continue their career in academia rather than industry.</p>
 
+<p></p>
 
-
-	<h3>3. How different are the majors in terms of skill set?</h3>
+	<h3><font color = '#3da5da'>3. How different are the majors in terms of skill set?</font></h3>
 	<div>
 		<img src="Figures/wordcloud.jpg" height="160" align="right">
 	</div>
@@ -102,9 +104,10 @@
 	</div>
 	<p></p>
 	<p> Pairwise comparison between each two majors unveiled the overlapping professional skill sets. There are about the same number of words shared by statistics and other two majors. The overlap between CHE and MSE is quite large. It is not surprising, we were a single department last year!</p>
+
+<p></p>
 	
-	
-	<h3>4. What do Statisticians master?</h3>
+	<h3><font color = '#3da5da'>4. What do Statisticians master?</font></h3>
 	<p> Since we know very well about our own majors, we only dug into the unique skill set for statisticians.  Google suggested a professional skill set for statistics major, let’s see what are the most popular ones. </p>
 	<div>
 		<img src="Figures/skill set of STAT.png" width="650" align="middle">
@@ -112,9 +115,9 @@
 	<p></p>
 	<p>Obviously, “Excel”, “Sql”, “Python”,“R” stand out prominently. So learn STA141-abc classes very carefully, statistics students!</p>
 
+<p></p>
 
-
-	<h3>5. How much can you earn?</h3>
+	<h3><font color = '#3da5da'>5. How much can you earn?</font></h3>
 	<p>The distribution of the STAT and CHE majors are very similar whose average annual salary is around 70 thousand. Chemical engineers actually earn a little bit more than statisticians in general. </p>
 	<div>
 		<img src="Figures/salary_violinplot.png" width="650" align="middle">
@@ -123,8 +126,10 @@
 	<p>The entry salary level for material scientists is much higher than the other majors. However, the highest level is very limited as well. The distribution is pretty narrow and it seems that there is not much space to push up your salary for a material scientist. It’s probably a good idea for Jiewei to pursue a degree in statistics!</p>
 
 
+<p></p>
 
-	<h3>6. How can you earn more?</h3>
+
+	<h3><font color = '#3da5da'>6. How can you earn more?</font></h3>
 	<p>Is there any particular skill that can boost your salary level?</p>
 	<div>
 		<img src="Figures/Skill Salary Bar Plot.png" width="650" align="middle">
@@ -141,7 +146,7 @@
 <div class = 'ex3'>
 </div>
 
-<h2> <span color = '#faca55'>WRAP UP </span></h2>
+<h2> <font color = '#faca55'>WRAP UP </font></h2>
 
 <p>We had a lot of fun with this project. Da is super excited that chemical engineers earn the most among the three majors, and Jiewei is pretty happy that she now knows R and Python very well. We can’t wait to learn more about statistics!</p>
 
