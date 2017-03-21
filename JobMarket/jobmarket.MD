@@ -67,7 +67,7 @@
 	
 	<h3> Grads vs Undergrads, who are more wanted? </h3>
 	<div>
-		<img src="Figures/Degree requirement comparison.png" width="500" align="middle">
+		<img src="Figures/Degree requirement comparison.png" width="600" align="middle">
 	</div>
 <p>The majority of the jobs only require a Bachelors degree. For internships, the percentage of graduate is slightly higher. It is interesting to find that there is really high demand for Materials Science graduate students for internships.</p>
 	<div>
@@ -84,7 +84,7 @@
 	</div>
 	<p>31 important words of general qualifications are shared by all majors. They can be classified into two categories: (1) personal characteristics (“independent”, “collaboration”, “coordination”, etc). (2) fundamental professional skills (“excel”, “r”, and “software”).</p>
 	<div>
-		<img src="Figures/4-venn.jpg" height="200" align="right">
+		<img src="Figures/4-venn.jpg" height="400" align="middle">
 	</div>
 	<p> Pairwise comparison between each two majors unveiled the overlapping professional skill sets. There are about the same number of words shared by statistics and other two majors. The overlap between CHE and MSE is quite large. It is not surprising, we were a single department last year!</p>
 	
@@ -92,7 +92,7 @@
 	<h3>What do Statisticians master?</h3>
 	<p> Since we know very well about our own majors, we only dug into the unique skill set for statisticians.  Google suggested a professional skill set for statistics major, let’s see what are the most popular ones. </p>
 	<div>
-		<img src="Figures/skill set of STAT.png" height="200" align="right">
+		<img src="Figures/skill set of STAT.png" height="300" align="middle">
 	</div>	
 	<p>Obviously, “Excel”, “Sql”, “Python”,“R” stand out prominently. So learn STA141-abc classes very carefully, statistics students!</p>
 
@@ -101,7 +101,7 @@
 	<h3>How much can you earn?</h3>
 	<p>The distribution of the STAT and CHE majors are very similar whose average annual salary is around 70 thousand. Chemical engineers actually earn a little bit more than statisticians in general. </p>
 	<div>
-		<img src="Figures/salary_violinplot.png" height="200" align="right">
+		<img src="Figures/salary_violinplot.png" height="300" align="middle">
 	</div>
 	<p>The entry salary level for material scientists is much higher than the other majors. However, the highest level is very limited as well. The distribution is pretty narrow and it seems that there is not much space to push up your salary for a material scientist. It’s probably a good idea for Jiewei to pursue a degree in statistics!</p>
 
@@ -110,7 +110,7 @@
 	<h3>How can you earn more?</h3>
 	<p>Is there any particular skill that can boost your salary level?</p>
 	<div>
-		<img src="Figures/Skill Salary Bar Plot.png" height="250" align="right">
+		<img src="Figures/Skill Salary Bar Plot.png" height="300" align="middle">
 	</div>
 	<p>Unfortunately, there is no quick answer. We equally differentiated the job posts according to the annual salary they offer. The most popular skill set including R, Python, and Hadoop (again, the content of the STA141-abc course series), are all commonly required regardless of the salary level. Some other skills are required by some jobs but not the others.</p> 
 	<p>We believe there should be some correlation between the skill set and the salary level. But we did not find any particular skill that is special for the high salary level group. One possible reason is the data limitation. Not all the job posts would specify the salary level, and only about 10% of the job posts we scraped provided the salary information. The sample size is relatively small to begin with. Another hypothesis is that it may be the size of your skill set, instead of a special skill, that determines your salary level. </p>
