@@ -81,12 +81,13 @@
 		<img src="Figures/Degree requirement comparison.png" width="650" align="middle">
 	</div>
 	<p> </p>
-<p>The majority of the jobs only require a Bachelors degree. For internships, the percentage of graduate is slightly higher. It is interesting to find that there is really high demand for Materials Science graduate students for internships.</p>
+	<p>The majority of the jobs only require a Bachelors degree. For internships, the percentage of graduate is slightly higher. It is interesting to find that there is really high demand for Materials Science graduate students for internships.</p>
 	<div>
 		<img src="Figures/3-degree pie.jpg" width="650" align="middle">
 	</div>
-<p>The population data of the entire US in 2014 to 2015 academic year of the statistic major and engineering majors come from the National Center for Education Statistics. And the job demand data were obtained from Indeed website and only for California. Since the data are not on the same page in terms of time and locations, we only compared the percentage of different degrees. </p>
-<p>Assuming the CA data is representative for the entire nation, the percentage of undergrad is smaller in population than that in the job market. It seems to be easier for undergrads to find a job. However, people with higher education levels may prefer to continue their career in academia rather than industry.</p>
+	<p></p>
+	<p>The population data of the entire US in 2014 to 2015 academic year of the statistic major and engineering majors come from the National Center for Education Statistics. And the job demand data were obtained from Indeed website and only for California. Since the data are not on the same page in terms of time and locations, we only compared the percentage of different degrees. </p>
+	<p>Assuming the CA data is representative for the entire nation, the percentage of undergrad is smaller in population than that in the job market. It seems to be easier for undergrads to find a job. However, people with higher education levels may prefer to continue their career in academia rather than industry.</p>
 
 
 
@@ -94,10 +95,12 @@
 	<div>
 		<img src="Figures/wordcloud.jpg" height="160" align="right">
 	</div>
+	<p></p>
 	<p>31 important words of general qualifications are shared by all majors. They can be classified into two categories: (1) personal characteristics (“independent”, “collaboration”, “coordination”, etc). (2) fundamental professional skills (“excel”, “r”, and “software”).</p>
 	<div>
 		<img src="Figures/4-venn.jpg" width="650" align="middle">
 	</div>
+	<p></p>
 	<p> Pairwise comparison between each two majors unveiled the overlapping professional skill sets. There are about the same number of words shared by statistics and other two majors. The overlap between CHE and MSE is quite large. It is not surprising, we were a single department last year!</p>
 	
 	
@@ -106,6 +109,7 @@
 	<div>
 		<img src="Figures/skill set of STAT.png" width="650" align="middle">
 	</div>	
+	<p></p>
 	<p>Obviously, “Excel”, “Sql”, “Python”,“R” stand out prominently. So learn STA141-abc classes very carefully, statistics students!</p>
 
 
@@ -115,6 +119,7 @@
 	<div>
 		<img src="Figures/salary_violinplot.png" width="650" align="middle">
 	</div>
+	<p></p>
 	<p>The entry salary level for material scientists is much higher than the other majors. However, the highest level is very limited as well. The distribution is pretty narrow and it seems that there is not much space to push up your salary for a material scientist. It’s probably a good idea for Jiewei to pursue a degree in statistics!</p>
 
 
@@ -124,10 +129,12 @@
 	<div>
 		<img src="Figures/Skill Salary Bar Plot.png" width="650" align="middle">
 	</div>
+	<p></p>
 	<p>Unfortunately, there is no quick answer. We equally differentiated the job posts according to the annual salary they offer. The most popular skill set including R, Python, and Hadoop (again, the content of the STA141-abc course series), are all commonly required regardless of the salary level. Some other skills are required by some jobs but not the others.</p> 
 	<p>We believe there should be some correlation between the skill set and the salary level. But we did not find any particular skill that is special for the high salary level group. One possible reason is the data limitation. Not all the job posts would specify the salary level, and only about 10% of the job posts we scraped provided the salary information. The sample size is relatively small to begin with. Another hypothesis is that it may be the size of your skill set, instead of a special skill, that determines your salary level. </p>
 
-<p> </p>
+<p></p>
+<p></p>
 
 <p>It seems that not all companies are frank enough to tell you their job salary. And we were not able to proceed with the limited data to infer the salary difference between undergrads and grads. Let’s hope for now that our efforts will be paid off…</p>
 
