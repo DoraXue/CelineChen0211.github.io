@@ -112,6 +112,7 @@
   
   <div class = 'ex3'>
   </div>  
+  
 <div align="right">
 <footer class="site-footer" color = 'grey'>
     Copyright Jiewei Chen &copy; 2017
