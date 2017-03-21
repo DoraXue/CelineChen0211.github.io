@@ -33,6 +33,9 @@
   <div class="youtube">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/vwKmp3zmiXg" frameborder="0" allowfullscreen></iframe>
   </div>
+  
+<div class = 'ex3'>
+</div>
 
 <ul>
 <li> <h2> Motivation </h2> </li>
