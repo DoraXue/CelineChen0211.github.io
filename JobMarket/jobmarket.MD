@@ -64,17 +64,12 @@
 	<p>	Check out these interactive maps to have a closer look at the job posts.  </p>
 	<ul>
 	<li> <a href = 'Figures/Statistics.html'>Statistics</a>
+	<li> <a href = 'Figures/Chemical_Engineering.html'>Chemical Engineering</a>
+	<li> <a href = 'Figures/Materials_Science.html'>Materials Science</a>
 	</ul>
 	<p> Click the pins to find the job titles and company names! </p>
-	<figure>
-  	<img src="Figures/Statistics.html" height="300">
-	</figure>
-	<figure>
-  	<img src="Figures/Chemical_Engineering.html" height="300">
-	</figure>
-	<figure>
-  	<img src="Figures/Materials_Science.html" height="300">
-	</figure>
+	
+	<iframe width="560" height="315" src='Figures/Statistics.html' frameborder="0">
 	
 	<h3> Grads vs Undergrads, who are more wanted? </h3>
 	<div>
