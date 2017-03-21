@@ -111,3 +111,6 @@
   <center> &#9993; Email: cjwchen at ucdavis.edu </center>
   
   
+<footer class="site-footer">
+    Copyright Jiewei Chen &copy; 2017
+</footer>
