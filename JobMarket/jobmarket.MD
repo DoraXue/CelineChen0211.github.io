@@ -51,48 +51,48 @@
 <p>		To quickly get to the fun part of the results, the methodologies and techniques we used for this project are summarized in this table. You may scroll down to the very bottom to find the link to our jupyter notebook to find more details. </p>
 
 <div>
-	<img src="JobMarket/Figures/2-method.jpg" width="300" height="280" align="right">
+	<img src="Figures/2-method.jpg" width="300" height="280" align="right">
 </div>
 
 <h2> Interesting Findings </h2>
 	+ Where are the hiring companies
 	<div>
-  	<img src="JobMarket/Figures/LocationofJobs.png" height="300" align="right">
+  	<img src="Figures/LocationofJobs.png" height="300" align="right">
   </div>
 	<p> Not surprisingly, there are two clusters on the map, one is at the silicon valley, and the other is around LA. </p>
 	<p> Another interesting observation is that the STAT companies are more closely centered at these two locations, whereas the CHE and MSE companies are more widely distributed.</p>
 	<p>	Check out these interactive maps to have a closer look at the job posts. Click the pins to find the job titles and company names! </p>
 	<figure>
-  	<img src="JobMarket/Figures/Statistics.html" height="300">
+  	<img src="Figures/Statistics.html" height="300">
 	</figure>
 	<figure>
-  	<img src="JobMarket/Figures/Chemical_Engineering.html" height="300">
+  	<img src="Figures/Chemical_Engineering.html" height="300">
 	</figure>
 	<figure>
-  	<img src="JobMarket/Figures/Materials_Science.html" height="300">
+  	<img src="Figures/Materials_Science.html" height="300">
 	</figure>
 	
 	+ Degree Requirement
 	<div>
-		<img src="JobMarket/Figures/Degree requirement comparison.png" height="200" align="right">
+		<img src="Figures/Degree requirement comparison.png" height="200" align="right">
 	</div>
 	<div>
-		<img src="JobMarket/Figures/3-degree pie.jpg" height="200" align="right">
+		<img src="Figures/3-degree pie.jpg" height="200" align="right">
 	</div>	
 	+ Skill set
 	<div>
-		<img src="JobMarket/Figures/4-venn.jpg" height="200" align="right">
+		<img src="Figures/4-venn.jpg" height="200" align="right">
 	</div>
 	<div>
-		<img src="JobMarket/Figures/skill set of STAT.png" height="200" align="right">
+		<img src="Figures/skill set of STAT.png" height="200" align="right">
 	</div>	
 	+ Salary Level
 	<div>
-		<img src="JobMarket/Figures/salary_violinplot.png" height="200" align="right">
+		<img src="Figures/salary_violinplot.png" height="200" align="right">
 	</div>
 	+ Skill set of different salary levels
 	<div>
-		<img src="CelineChen0211.github.io/JobMarket/Figures/Skill Salary Bar Plot.png" height="200" align="right">
+		<img src="Figures/Skill Salary Bar Plot.png" height="200" align="right">
 	</div>
 
 
