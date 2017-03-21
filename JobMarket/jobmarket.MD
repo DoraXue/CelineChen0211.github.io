@@ -68,7 +68,7 @@
 <p></p>
 	<h3><font color = '#3da5da'>1. Where are the hiring companies ?</font></h3>
 	<div>
-  	<img src="Figures/LocationofJobs2.png" height="300" align="right">
+  	<img src="Figures/LocationofJobs2.jpg" height="300" align="right">
   	</div>
 	<p> Not surprisingly, there are two clusters on the map, one is at the silicon valley, and the other is around LA. </p>
 	<p> Another interesting observation is that the STAT companies are more closely centered at these two locations, whereas the CHE and MSE companies are more widely distributed.</p>
