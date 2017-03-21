@@ -98,7 +98,7 @@
        <br>
        <li> Chenying Lai, <u>Jiewei Chen</u>, James C. Knight, Arumugam Manthiram, Alexandra Navrotsky,  “Thermodynamic Stability of Transition Metal Substituted LiMn2-xMxO4 (M = Cr, Fe, Co and Ni) Spinels” <i>ChemPhysChem</i> 17.13 (<b>2016</b>): 1973-1978.<a href = "http://onlinelibrary.wiley.com/doi/10.1002/cphc.201600120/abstract"> [pdf] </a> </li>
        <br>
-	<li> Zhen Xu, Bingna Zheng, <u>Jiewei Chen</u>, Chao Gao, "Highly efficient synthesis of neat graphene nanoscrolls from graphene oxide by well-controlled lyophilization." Chemistry of Materials 26.23 (<b>2014</b>): 6811-6818.<a href = "http://pubs.acs.org/doi/abs/10.1021/cm503418h"> [pdf] </a> </li>
+	<li> Zhen Xu, Bingna Zheng, <u>Jiewei Chen</u>, Chao Gao, "Highly efficient synthesis of neat graphene nanoscrolls from graphene oxide by well-controlled lyophilization." Chemistry of Materials 26.23 (<b>2014</b>): 6811-6818.<a class = 'mouse' href = "http://pubs.acs.org/doi/abs/10.1021/cm503418h"> [pdf] </a> </li>
         </ol>
   </li> 
   
