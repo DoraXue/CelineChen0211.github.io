@@ -52,7 +52,7 @@
 
 <h2> <font color = '#faca55'>METHOD & TECHENIQUES</font> </h2>
 
-<p>		The data of the job market come from indeed.com(link). We restricted our scope to STAT, CHE, and MSE, and California. (The procedure can be easily extended to other locations and majors.) </p>
+<p>		The data of the job market come from <a href = 'https://www.indeed.com/'>indeed.com</a>. We restricted our scope to STAT, CHE, and MSE, and California. (The procedure can be easily extended to other locations and majors.) </p>
 
 <p>		To quickly get to the fun part of the results, the methodologies and techniques we used for this project are summarized in this table. You may scroll down to the very bottom to find the link to our jupyter notebook to find more details. </p>
 
@@ -90,7 +90,7 @@
 		<img src="Figures/3-degree pie.jpg" width="650" align="middle">
 	</div>
 	<p></p>
-	<p>The population data of the entire US in 2014 to 2015 academic year of the statistic major and engineering majors come from the National Center for Education Statistics. And the job demand data were obtained from Indeed website and only for California. Since the data are not on the same page in terms of time and locations, we only compared the percentage of different degrees. </p>
+	<p>The population data of the entire US in 2014 to 2015 academic year of the statistic major and engineering majors come from the <a href = 'https://nces.ed.gov/fastfacts/display.asp?id=37'>National Center for Education Statistics</a>. And the job demand data were obtained from Indeed website and only for California. Since the data are not on the same page in terms of time and locations, we only compared the percentage of different degrees. </p>
 	<p>Assuming the CA data is representative for the entire nation, the percentage of undergrad is smaller in population than that in the job market. It seems to be easier for undergrads to find a job. However, people with higher education levels may prefer to continue their career in academia rather than industry.</p>
 
 <p></p>
