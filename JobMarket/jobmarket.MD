@@ -63,7 +63,7 @@
 	<p> Another interesting observation is that the STAT companies are more closely centered at these two locations, whereas the CHE and MSE companies are more widely distributed.</p>
 	<p>	Check out these interactive maps to have a closer look at the job posts. Click the pins to find the job titles and company names! </p>
 	
-	<iframe width="200" height="200" src='Figures/Statistics.html' frameborder="1"></iframe><iframe width="200" height="200" src='Figures/Chemical_Engineering.html' frameborder="1"></iframe><iframe width="200" height="200" src='Figures/Materials_Science.html' frameborder="1"></iframe>
+	<iframe width="220" height="200" src='Figures/Statistics.html' frameborder="1"></iframe><iframe width="220" height="200" src='Figures/Chemical_Engineering.html' frameborder="1"></iframe><iframe width="220" height="200" src='Figures/Materials_Science.html' frameborder="1"></iframe>
 	
 	<h3> Grads vs Undergrads, who are more wanted? </h3>
 	<div>
@@ -76,24 +76,55 @@
 <p>The population data of the entire US in 2014 to 2015 academic year of the statistic major and engineering majors come from the National Center for Education Statistics. And the job demand data were obtained from Indeed website and only for California. Since the data are not on the same page in terms of time and locations, we only compared the percentage of different degrees. </p>
 <p>Assuming the CA data is representative for the entire nation, the percentage of undergrad is smaller in population than that in the job market. It seems to be easier for undergrads to find a job. However, people with higher education levels may prefer to continue their career in academia rather than industry.</p>
 
-	<h3>Skill set</h3>
+
+
+	<h3>How different are the majors in terms of skill set?</h3>
 	<div>
-		<img src="Figures/wordcloud.jpg" height="200" align="right">
+		<img src="Figures/wordcloud.jpg" height="160" align="right">
 	</div>
+	<p>31 important words of general qualifications are shared by all majors. They can be classified into two categories: (1) personal characteristics (“independent”, “collaboration”, “coordination”, etc). (2) fundamental professional skills (“excel”, “r”, and “software”).</p>
 	<div>
 		<img src="Figures/4-venn.jpg" height="200" align="right">
 	</div>
+	<p> Pairwise comparison between each two majors unveiled the overlapping professional skill sets. There are about the same number of words shared by statistics and other two majors. The overlap between CHE and MSE is quite large. It is not surprising, we were a single department last year!</p>
+	
+	
+	<h3>What do Statisticians master?</h3>
+	<p> Since we know very well about our own majors, we only dug into the unique skill set for statisticians.  Google suggested a professional skill set for statistics major, let’s see what are the most popular ones. </p>
 	<div>
 		<img src="Figures/skill set of STAT.png" height="200" align="right">
 	</div>	
-	<h3> Salary Level </h3>
+	<p>Obviously, “Excel”, “Sql”, “Python”,“R” stand out prominently. So learn STA141-abc classes very carefully, statistics students!</p>
+
+
+
+	<h3>How much can you earn?</h3>
+	<p>The distribution of the STAT and CHE majors are very similar whose average annual salary is around 70 thousand. Chemical engineers actually earn a little bit more than statisticians in general. </p>
 	<div>
 		<img src="Figures/salary_violinplot.png" height="200" align="right">
 	</div>
-	<h3> Skill set of different salary levels</h3>
+	<p>The entry salary level for material scientists is much higher than the other majors. However, the highest level is very limited as well. The distribution is pretty narrow and it seems that there is not much space to push up your salary for a material scientist. It’s probably a good idea for Jiewei to pursue a degree in statistics!</p>
+
+
+
+	<h3>How can you earn more?</h3>
+	<p>Is there any particular skill that can boost your salary level?</p>
 	<div>
 		<img src="Figures/Skill Salary Bar Plot.png" height="250" align="right">
 	</div>
+	<p>Unfortunately, there is no quick answer. We equally differentiated the job posts according to the annual salary they offer. The most popular skill set including R, Python, and Hadoop (again, the content of the STA141-abc course series), are all commonly required regardless of the salary level. Some other skills are required by some jobs but not the others.</p> 
+	<p>We believe there should be some correlation between the skill set and the salary level. But we did not find any particular skill that is special for the high salary level group. One possible reason is the data limitation. Not all the job posts would specify the salary level, and only about 10% of the job posts we scraped provided the salary information. The sample size is relatively small to begin with. Another hypothesis is that it may be the size of your skill set, instead of a special skill, that determines your salary level. </p>
+
+<p></p>
+
+<p>It seems that not all companies are frank enough to tell you their job salary. And we were not able to proceed with the limited data to infer the salary difference between undergrads and grads. Let’s hope for now that our efforts will be paid off…</p>
+
+<h2>WRAP UP</h2>
+
+<p>We had a lot of fun with this project. Da is super excited that chemical engineers earn the most among the three majors, and Jiewei is pretty happy that she now knows R and Python very well. We can’t wait to learn more about statistics!</p>
+
+<p>We hope you enjoyed reading our project as much as we do! If you want check out more about this project, <a href = 'https://github.com/CelineChen0211/STA141b-Project/tree/master'>here</a> is our jupyter notebook. Comments and feedback are always welcomed(<a href = 'https://youtu.be/vwKmp3zmiXg'>link</a>)!<p>
+
 
 
 <div class = 'ex3'>
