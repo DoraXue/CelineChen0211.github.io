@@ -112,7 +112,7 @@
 
 
 <center>
-<footer class="site-footer">
-    Copyright Jiewei Chen &copy; 2017
+<footer class="site-footer" color = 'grey'>
+    Copyright Jiewei Chen &copy; 2017 hahhah
 </footer>
 </center>
