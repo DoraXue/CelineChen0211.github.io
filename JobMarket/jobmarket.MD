@@ -49,5 +49,7 @@
 </section>
 
 
-
+<footer class="site-footer">
+    Copyright Jiewei Chen & Da Xue &copy; 2017
+</footer>
 
