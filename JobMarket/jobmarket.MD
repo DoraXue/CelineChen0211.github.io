@@ -50,7 +50,7 @@
 
 
 
-<h2> <span color = '#faca55'>METHOD & TECHENIQUES</span> </h2>
+<h2> <font color = '#faca55'>METHOD & TECHENIQUES</font> </h2>
 
 <p>		The data of the job market come from indeed.com(link). We restricted our scope to STAT, CHE, and MSE, and California. (The procedure can be easily extended to other locations and majors.) </p>
 
