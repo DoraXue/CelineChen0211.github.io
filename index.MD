@@ -109,9 +109,9 @@
   <hr>
   <center> <h3 class = 'mail'> Contact Me </h3> </center>
   <center> &#9993; Email: cjwchen at ucdavis.edu </center>
-
-<right>
+  
+<div align="center">
 <footer class="site-footer" color = 'grey'>
     Copyright Jiewei Chen &copy; 2017
 </footer>
-</right>
+</div>
