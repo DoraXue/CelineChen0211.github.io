@@ -61,15 +61,9 @@
   	</div>
 	<p> Not surprisingly, there are two clusters on the map, one is at the silicon valley, and the other is around LA. </p>
 	<p> Another interesting observation is that the STAT companies are more closely centered at these two locations, whereas the CHE and MSE companies are more widely distributed.</p>
-	<p>	Check out these interactive maps to have a closer look at the job posts.  </p>
-	<ul>
-	<li> <a href = 'Figures/Statistics.html'>Statistics</a>
-	<li> <a href = 'Figures/Chemical_Engineering.html'>Chemical Engineering</a>
-	<li> <a href = 'Figures/Materials_Science.html'>Materials Science</a>
-	</ul>
-	<p> Click the pins to find the job titles and company names! </p>
+	<p>	Check out these interactive maps to have a closer look at the job posts. Click the pins to find the job titles and company names! </p>
 	
-	<iframe width="560" height="315" src='Figures/Statistics.html' frameborder="0">
+	<iframe width="200" height="200" src='Figures/Statistics.html' frameborder="0"></iframe><iframe width="200" height="200" src='Figures/Statistics.html' frameborder="0"></iframe><iframe width="200" height="200" src='Figures/Statistics.html' frameborder="0"></iframe>
 	
 	<h3> Grads vs Undergrads, who are more wanted? </h3>
 	<div>
