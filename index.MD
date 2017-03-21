@@ -110,8 +110,6 @@
   <center> <h3 class = 'mail'> Contact Me </h3> </center>
   <center> &#9993; Email: cjwchen at ucdavis.edu </center>
 
-  <div class = 'ex3'>
-  </div>
 
 <center>
 <footer class="site-footer">
