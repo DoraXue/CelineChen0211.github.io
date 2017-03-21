@@ -41,13 +41,14 @@
 <li> <h2> Results </h2> </li>
 </ul>
 
+<div>
+</div>
 
 <center> This is us laughing when finishing the project... (not really) </center>
 <div >
 <center><img class = "clip" src="laughing.JPG" width="410" height="273" align="middle"></center>
 </div>
 </section>
-
 
 <footer class="site-footer">
     Copyright Jiewei Chen & Da Xue &copy; 2017
