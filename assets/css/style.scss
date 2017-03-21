@@ -95,8 +95,6 @@ div.ex3 {
     padding: 25px 50px;
 }
 
-div.col3 {
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
+a.mouse:hover {
+    background-color: #424242;
 }
