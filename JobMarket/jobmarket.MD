@@ -63,11 +63,11 @@
 	<p> Another interesting observation is that the STAT companies are more closely centered at these two locations, whereas the CHE and MSE companies are more widely distributed.</p>
 	<p>	Check out these interactive maps to have a closer look at the job posts. Click the pins to find the job titles and company names! </p>
 	
-	<iframe width="220" height="200" src='Figures/Statistics.html' frameborder="1"></iframe><iframe width="220" height="200" src='Figures/Chemical_Engineering.html' frameborder="1"></iframe><iframe width="220" height="200" src='Figures/Materials_Science.html' frameborder="1"></iframe>
+	<iframe width="200" height="180" src='Figures/Statistics.html' frameborder="1"></iframe><iframe width="200" height="180" src='Figures/Chemical_Engineering.html' frameborder="1"></iframe><iframe width="200" height="180" src='Figures/Materials_Science.html' frameborder="1"></iframe>
 	
 	<h3> Grads vs Undergrads, who are more wanted? </h3>
 	<div>
-		<img src="Figures/Degree requirement comparison.png" height="200" align="middle">
+		<img src="Figures/Degree requirement comparison.png" width="500" align="middle">
 	</div>
 <p>The majority of the jobs only require a Bachelors degree. For internships, the percentage of graduate is slightly higher. It is interesting to find that there is really high demand for Materials Science graduate students for internships.</p>
 	<div>
