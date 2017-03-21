@@ -41,7 +41,7 @@
 <li> <h2> Results </h2> </li>
 </ul>
 
-<div>
+<div class = 'ex3'>
 </div>
 
 <center> This is us laughing when finishing the project... (not really) </center>
@@ -49,6 +49,8 @@
 <center><img class = "clip" src="laughing.JPG" width="410" height="273" align="middle"></center>
 </div>
 </section>
+<div class = 'ex3'>
+</div>
 
 <footer class="site-footer">
     Copyright Jiewei Chen & Da Xue &copy; 2017
