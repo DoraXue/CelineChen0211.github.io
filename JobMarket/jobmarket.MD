@@ -78,6 +78,9 @@
 
 	<h3>Skill set</h3>
 	<div>
+		<img src="Figures/wordcloud.jpg" height="200" align="right">
+	</div>
+	<div>
 		<img src="Figures/4-venn.jpg" height="200" align="right">
 	</div>
 	<div>
