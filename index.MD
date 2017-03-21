@@ -18,7 +18,7 @@
   </head>
   <body>
 
-    <div class="wrapper" style="width:800px">
+    <div class="wrapper" style="width:1500px">
 
       <section>
         <div id="title">
