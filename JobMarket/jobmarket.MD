@@ -50,7 +50,7 @@
 
 
 
-<h2> METHOD & TECHENIQUES </h2>
+<h2> <span color = '#faca55'>METHOD & TECHENIQUES</span> </h2>
 
 <p>		The data of the job market come from indeed.com(link). We restricted our scope to STAT, CHE, and MSE, and California. (The procedure can be easily extended to other locations and majors.) </p>
 
@@ -63,7 +63,7 @@
 <div class = 'ex3'>
 </div>
 
-<h2> Interesting Findings </h2>
+<h2> <span color = '#faca55'> INTERSTING FINDINGS </span> </h2>
 <p></p>
 	<h3>1. Where are the hiring companies ?</h3>
 	<div>
@@ -73,7 +73,7 @@
 	<p> Another interesting observation is that the STAT companies are more closely centered at these two locations, whereas the CHE and MSE companies are more widely distributed.</p>
 	<p>	Check out these interactive maps to have a closer look at the job posts. Click the pins to find the job titles and company names! </p>
 	
-	<iframe width="200" height="180" src='Figures/Statistics.html' frameborder="1"></iframe><iframe width="200" height="180" src='Figures/Chemical_Engineering.html' frameborder="1"></iframe><iframe width="200" height="180" src='Figures/Materials_Science.html' frameborder="1"></iframe>
+	<iframe width="216" height="180" src='Figures/Statistics.html' frameborder="1"></iframe><iframe width="216" height="180" src='Figures/Chemical_Engineering.html' frameborder="1"></iframe><iframe width="216" height="180" src='Figures/Materials_Science.html' frameborder="1"></iframe>
 
 <p> </p>
 	<h3>2. Grads vs Undergrads, who are more wanted? </h3>
@@ -141,7 +141,7 @@
 <div class = 'ex3'>
 </div>
 
-<h2>WRAP UP</h2>
+<h2> <span color = '#faca55'>WRAP UP </span></h2>
 
 <p>We had a lot of fun with this project. Da is super excited that chemical engineers earn the most among the three majors, and Jiewei is pretty happy that she now knows R and Python very well. We can’t wait to learn more about statistics!</p>
 
