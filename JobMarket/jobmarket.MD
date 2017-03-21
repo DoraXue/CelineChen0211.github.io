@@ -51,14 +51,14 @@
 <p>		To quickly get to the fun part of the results, the methodologies and techniques we used for this project are summarized in this table. You may scroll down to the very bottom to find the link to our jupyter notebook to find more details. </p>
 
 <div>
-	<img src="Figures/2-method.jpg" width="300" height="280" align="right">
+	<img src="Figures/2-method.jpg" height="200" >
 </div>
 
 <h2> Interesting Findings </h2>
-	+ Where are the hiring companies
+	<h3> Where are the hiring companies </h3>
 	<div>
   	<img src="Figures/LocationofJobs.png" height="300" align="right">
-  </div>
+  	</div>
 	<p> Not surprisingly, there are two clusters on the map, one is at the silicon valley, and the other is around LA. </p>
 	<p> Another interesting observation is that the STAT companies are more closely centered at these two locations, whereas the CHE and MSE companies are more widely distributed.</p>
 	<p>	Check out these interactive maps to have a closer look at the job posts. Click the pins to find the job titles and company names! </p>
