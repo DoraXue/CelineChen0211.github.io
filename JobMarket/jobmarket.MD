@@ -161,7 +161,7 @@
 <div >
 <center><img class = "clip" src="laughing.JPG" width="410" height="273" align="middle"></center>
 </div>
-</section>
+
 <div class = 'ex3'>
 </div>
 
