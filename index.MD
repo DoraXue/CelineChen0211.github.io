@@ -123,8 +123,7 @@
 						</footer>
 						</div>
 
-		</section>
-    </div>
+
 
     {% if site.google_analytics %}
       <script type="text/javascript">
@@ -136,5 +135,3 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
-  </body>
-</html
