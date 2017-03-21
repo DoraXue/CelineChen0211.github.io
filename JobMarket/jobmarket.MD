@@ -74,11 +74,13 @@
 	<p>	Check out these interactive maps to have a closer look at the job posts. Click the pins to find the job titles and company names! </p>
 	
 	<iframe width="200" height="180" src='Figures/Statistics.html' frameborder="1"></iframe><iframe width="200" height="180" src='Figures/Chemical_Engineering.html' frameborder="1"></iframe><iframe width="200" height="180" src='Figures/Materials_Science.html' frameborder="1"></iframe>
-	
+
+<p> </p>
 	<h3>2. Grads vs Undergrads, who are more wanted? </h3>
 	<div>
 		<img src="Figures/Degree requirement comparison.png" width="650" align="middle">
 	</div>
+	<p> </p>
 <p>The majority of the jobs only require a Bachelors degree. For internships, the percentage of graduate is slightly higher. It is interesting to find that there is really high demand for Materials Science graduate students for internships.</p>
 	<div>
 		<img src="Figures/3-degree pie.jpg" width="650" align="middle">
